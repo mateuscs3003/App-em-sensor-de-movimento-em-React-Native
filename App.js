@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
-import {View, StyleSheet, TouchableOpacity, Alert} from 'react-native';
-import imagex from './assets/icons/acesa.png';
-import imagey from './assets/icons/apagada.png';
+import {View, StyleSheet, TouchableOpacity, Image, Alert} from 'react-native';
+import imagex from './assets/icons/eco-light.png';
+import imagey from './assets/icons/eco-light-off.png';
 import Torch from 'react-native-torch';
 import RNShake from 'react-native-shake';
 
